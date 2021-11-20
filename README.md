@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sandra! &nbsp;&nbsp;<sup>&#12299;I'm a student, learning HTML, CSS, JS and MySQL.</sup>
 
 <!--
 **Sandranye/Sandranye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
