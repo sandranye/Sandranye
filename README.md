@@ -1,4 +1,4 @@
-### Hi, I'm Sandra! &nbsp;&nbsp;<sup>&#12299;I'm a student, learning HTML, CSS, JS and MySQL.</sup>
+### Hi, I'm Sandra! &nbsp;&nbsp;<sup>&#12299;I'm a student, learning HTML, CSS, SQL with MySQL database, JS, Visual Analytics with Tableau, Python, C#, Backend programming (or “server-side”), REST API, JDBC, ORM, Software Development, Algorithm Methods and Cloud.</sup>
 
 <!--
 **Sandranye/Sandranye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
